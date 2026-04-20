@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is the updated main branch version. 
+=======
+This is the feature branch version. 
+>>>>>>> feature-conflict
+This file contains both main and feature branch updates.
